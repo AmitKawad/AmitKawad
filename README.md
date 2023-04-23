@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kawad</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- My work area techstack **nodejs, typescript, javascript, java, springboot**
+- My work area involves building serverside applications using  **nodejs, typescript, javascript, mongodb, java, springboot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
